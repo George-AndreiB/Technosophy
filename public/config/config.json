@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x37988a0b7e09afe9e85d8e53ced778e8666b7398",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/tx/0xaf13367b10dd927cbaa3c57ed874fd5f1b675c666e0bf77e4cfff2d86d387240",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Technosophy",
+  "SYMBOL": "TECH",
+  "MAX_SUPPLY": 64,
+  "WEI_COST": 9900000000000000000,
+  "DISPLAY_COST": 9,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/technosophy",
+  "SHOW_BACKGROUND": true
+}
